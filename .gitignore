@@ -1,0 +1,25 @@
+# Arduino / ESP32 
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.a
+*.o
+*.eep
+*.core
+
+# VSCode / PlatformIO 
+.vscode/
+.pio/
+*.code-workspace
+
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
